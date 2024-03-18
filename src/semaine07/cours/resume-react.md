@@ -17,8 +17,6 @@
 *   Créer des fonctions qui vont retourner des objets qui ressemblent à du code HTML
 *   On peut injecter des objets et des fonctions JS directement dans des objets JSX (en utilisant des accolades)
 
-## Props
-
 
 
 
